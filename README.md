@@ -1,3 +1,4 @@
+Feel free to explore the code and contribute any improvements you think would be helpful for beginners.
 # Suriyaa's Keylogger 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?style=flat-square)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UZRFM579K6FL2&source=url)
 
